@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "ad": "Uzay Savaşı",
+    "aciklama": "UFO'lara karşı savaş oyunu",
+    "versiyon": "1.0",
+    "boyut": "3 MB",
+    "apk": "https://raw.githubusercontent.com/KULLANICI/TEKNO-Play/main/apk/uzay.apk",
+    "ikon": ""
+  },
+  {
+    "id": "2",
+    "ad": "Matematik Quiz",
+    "aciklama": "5-7. sınıf matematik soruları",
+    "versiyon": "1.0",
+    "boyut": "2 MB",
+    "apk": "https://raw.githubusercontent.com/KULLANICI/TEKNO-Play/main/apk/matematik.apk",
+    "ikon": ""
+  }
+]
