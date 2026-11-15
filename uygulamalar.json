@@ -2,8 +2,15 @@
   {
     "id": "1",
     "ad": "Uzay Savaşı",
-    "aciklama": "Geliş, savaş, büyü, işte karşında en büyüğü",
+    "aciklama": "Geliş, savaş, büyü, işte karşında en büyüğü. Eğilerek hareket et, her 3 saniyede ufo yok et.",
     "versiyon": "7.58.5",
     "apk": "https://raw.githubusercontent.com/emir151011-ship-it/TEKNO-Play/main/apk/UfoWar.apk"
+  },
+  {
+    "id": "2",
+    "ad": "Uçak Oyunu",
+    "aciklama": "Kuş oyunu",
+    "versiyon": "2.5.1",
+    "apk": "https://raw.githubusercontent.com/emir151011-ship-it/TEKNO-Play/main/apk/UcakOyunu.apk"
   }
 ]
